@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (motion_single)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="first_try" project-jdk-type="Python SDK" />
+</project>
